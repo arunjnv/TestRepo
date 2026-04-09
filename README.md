@@ -7,7 +7,4 @@
 # git branch -M main  to change name of branch
 # finally git push origin main to sync github
 # git push -u origin main to set upstream this repo branch.
-
-
-
 # check for another branch
