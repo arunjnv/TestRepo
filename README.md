@@ -1,4 +1,5 @@
 # This is my test repo created over local and registered and pushed to git hub
+# create a repo with same name over github
 # to register git init
 # to set origin main to this repo - git remote add origin <--link-->
 # git remote -v to check which repo is main
